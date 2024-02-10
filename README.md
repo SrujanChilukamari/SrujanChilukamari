@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Srujan Kumar Chilukamari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="300" height="200"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanchilukamari&label=Profile%20views&color=0e75b6&style=flat" alt="srujanchilukamari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="coding" width="300" height="200"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 - 🌱 I’m currently learning **MySQL , PowerBi , Advanced Excel , Tableau , Python , R**
 
