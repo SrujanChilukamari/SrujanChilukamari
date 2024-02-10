@@ -1,8 +1,8 @@
-<img  width="1000" height="400" src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw">
+<img  width="1000" height="350" src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw">
 <h1 align="center">Hi 👋, I'm Srujan Kumar Chilukamari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="350"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align="right" alt="coding" width="300"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanchilukamari&label=Profile%20views&color=0e75b6&style=flat" alt="srujanchilukamari" /> </p>
 
