@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srujan Kumar Chilukamari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="300"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align="right" alt="coding" width="300" height="200"  src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanchilukamari&label=Profile%20views&color=0e75b6&style=flat" alt="srujanchilukamari" /> </p>
 
